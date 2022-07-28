@@ -10,4 +10,16 @@
     opacity: 0.7;
 }
 
-#discover {}
+.outline-btn {
+    color: #289BDE;
+    border: 2px solid #289BDE;
+    background-color: white;
+}
+
+.blue-btn {
+    background-color: #289BDE;
+}
+
+.blue-text {
+    color: #289BDE;
+}
